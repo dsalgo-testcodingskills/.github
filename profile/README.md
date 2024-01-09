@@ -26,7 +26,7 @@ Welcome to our cutting-edge Coding Testing Platform! Designed to streamline tale
 
 ## Technical Architecture
 
-![Technical Architecture Image]()
+![Technical Architecture Image](https://github.com/dsalgo-testcodingskills/.github/assets/153181598/474f35bd-ae0d-45e1-aa14-2ec8be52e314)
 
 
 ## Repositories
@@ -75,16 +75,15 @@ Get started by cloning the repositories and following the setup instructions for
 
 ## Contributing
 
-We welcome contributions from the community! To contribute in our project, please follow the [contribution guidelines]().
+We welcome contributions from the community! To contribute in our project, please follow the [contribution guidelines](https://github.com/dsalgo-testcodingskills/.github/blob/main/profile/CONTRIBUTING.md).
 
 ## License
 
-This project and its repositories are licensed under the [MIT License]()
+This project and its repositories are licensed under the [MIT License](https://github.com/dsalgo-testcodingskills/.github/blob/main/profile/LICENSE)
 
 ## Contact
 
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
 
-- Email: 
-- Website: []()
-- GitHub: []()
+- Linkdin: [CodeB](https://www.linkedin.com/company/code-b)
+- Website: [CodeB](https://code-b.dev/)

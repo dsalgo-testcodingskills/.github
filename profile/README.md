@@ -1,4 +1,4 @@
-# DSALGO - open-source coding testing platform
+# DSALGO - Coding Testing Platform
 
 ![Organization Logo](https://dsalgo.in/images/ALGO.png)
 

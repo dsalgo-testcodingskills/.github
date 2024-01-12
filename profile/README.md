@@ -24,6 +24,14 @@ Welcome to DSAlgo, an open-source coding testing platform designed for developer
 
 Welcome to our cutting-edge Coding Testing Platform! Designed to streamline talent evaluation, our platform offers a dynamic environment where users can craft customized tests, curate diverse coding questions, and support multiple programming languages. Seamlessly assess candidates' skills, evaluate problem-solving abilities, and make informed hiring decisions with our versatile tool. Whether you're seeking top-tier talent or gauging coding proficiency, our platform empowers you to identify and select the best candidates for your team
 
+## Video Demonstration
+
+
+[![DSAlgo-Walkthrough](https://img.youtube.com/vi/jlruvxp0rzo/0.jpg)](https://www.youtube.com/watch?v=jlruvxp0rzo)
+
+
+
+
 ## Technical Architecture
 
 ![Technical Architecture Image](https://github.com/dsalgo-testcodingskills/.github/assets/153181598/474f35bd-ae0d-45e1-aa14-2ec8be52e314)

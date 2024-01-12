@@ -26,7 +26,11 @@ Welcome to our cutting-edge Coding Testing Platform! Designed to streamline tale
 
 ## Video Demonstration
 
-https://github.com/dsalgo-testcodingskills/.github/assets/153181598/b8998ac2-b20a-4787-8d91-25a42d3e16c8
+
+
+https://github.com/dsalgo-testcodingskills/.github/assets/153181598/21ef9834-69c5-4128-9adf-50f7c2a6baf4
+
+
 
 
 ## Technical Architecture
